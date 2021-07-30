@@ -4,10 +4,10 @@ Created as part of the MIT FutureMakers Applied Deep Learning program, developed
 
 # Team
 
-[![](https://github.com/mferuscomelo.png?size=50)](https://github.com/mferuscomelo)
-[![](https://github.com/mikemaid.png?size=50)](https://github.com/mikemaid)
-[![](https://github.com/annabellatian.png?size=50)](https://github.com/annabellatian)
+[![](https://github.com/mferuscomelo.png?size=50 "Milan Ferus-Comelo")](https://github.com/mferuscomelo)
+[![](https://github.com/mikemaid.png?size=50 "Aaron Qi")](https://github.com/mikemaid)
+[![](https://github.com/annabellatian.png?size=50 "Annabella Tian")](https://github.com/annabellatian)
 
 # Mentors
-[<img src="https://github.com/sazidabintaislam.png" height="50">](https://github.com/sazidabintaislam)
-[<img src="https://github.com/ShoumikMajumdar.png" height="50">](https://github.com/ShoumikMajumdar)
+[<img src="https://github.com/sazidabintaislam.png" height="50" title="Sazida Binta Islam">](https://github.com/sazidabintaislam)
+[<img src="https://github.com/ShoumikMajumdar.png" height="50" title="Shoumik Majumdar">](https://github.com/ShoumikMajumdar)
