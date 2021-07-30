@@ -9,3 +9,5 @@ Created as part of the MIT FutureMakers Applied Deep Learning program, developed
 [![](https://github.com/annabellatian.png?size=50)](https://github.com/annabellatian)
 
 # Mentors
+[<img src="https://github.com/sazidabintaislam.png" height="50">](https://github.com/sazidabintaislam)
+[<img src="https://github.com/ShoumikMajumdar.png" height="50">](https://github.com/ShoumikMajumdar)
